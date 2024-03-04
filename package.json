@@ -1,6 +1,6 @@
 {
   "name": "shardeum_monitor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "node monitoring",
   "main": "start_monitor.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malininaberla/shardeum_monitor.git"
+    "url": "https://github.com/malininaberla/shardeum_monitor.git"
   },
   "bugs": {
     "url": "https://github.com/malininaberla/shardeum_monitor/issues"
